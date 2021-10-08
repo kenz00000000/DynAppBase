@@ -1,0 +1,1 @@
+<?php include 'includes/themes/' . ACTIVE_THEME . '/container.php'; ?>
